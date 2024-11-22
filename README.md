@@ -2,9 +2,10 @@
 <br><br/>
 آب و هوای یک هفته را نمایش می دهد
 <br><br/>
-از لوکیشن کاربر استفاده میکند
-<br><br/>
 سایت منبع : https://mockapi.io
+
+<br><br/>
+از لوکیشن کاربر استفاده میکند
 
 A weather app by redux toolkit
 <br><br/>
