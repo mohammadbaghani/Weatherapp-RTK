@@ -9,5 +9,6 @@
 A weather app by redux toolkit
 <br><br/>
 It uses location of user
+<br><br/>
 Api site : https://mockapi.io
 
