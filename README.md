@@ -2,11 +2,11 @@
 <br><br/>
 سایت منبع : https://openweathermap.org
 <br><br/>
-از لوکیشن کاربر استفاده میکند
+از لوکیشن کاربر استفاده کردم
 
 A weather app by redux toolkit
 <br><br/>
-It uses location of user
+I use location of user
 <br><br/>
 Api site : https://openweathermap.org
 
